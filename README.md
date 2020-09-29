@@ -12,3 +12,5 @@ The service should now be available at http://localhost:5000.
 
 ## Requirements
 - [Node.js](https://www.nodejs.org)
+
+[![Run on Repl.it](https://repl.it/badge/github/mariotacke/blog-real-time-ascii-camera-filter)](https://repl.it/github/mariotacke/blog-real-time-ascii-camera-filter)
